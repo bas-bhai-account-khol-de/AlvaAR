@@ -42,7 +42,7 @@ To run the examples on another device in your local network, they must be served
 #### 3) Run
 ```
     $: cd ./AlvaAR/examples/
-    $: nvm use 13.2
+    $: nvm use 20
     $: npm start
 ``` 
 Then open [https://YOUR_IP:443/video.html](https://YOUR_IP:443/video.html]) in your browser.
